@@ -35,7 +35,7 @@ function Main({ dishes, openStatus, onStatus }) {
       </div>
       <main>
         {/* Note: Ensure this URL points to an actual image file, not a search page */}
-        <img src="https://via.placeholder.com/200" alt="chef" height={200} />
+        <img src="image.jpg" alt="chef" height={200} />
         <ul>
           {dishes.map((dish) => (
             <li key={dish.id} style={{ listStyleType: "none" }}>
