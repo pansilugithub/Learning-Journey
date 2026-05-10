@@ -30,7 +30,7 @@ This repository documents my education and the practical projects I've built.
 
 ### 🏛️ Education
 * **Degree:** Bachelor of Engineering
-* **Evidence:** 
+* **Evidence:** Degree Certificate.jpeg
 
 ### 💻 Featured Project
 * **Project Name:** Hotel Management System
