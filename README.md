@@ -30,9 +30,10 @@ This repository documents my education and the practical projects I've built.
 
 ### 🏛️ Education
 * **Degree:** Bachelor of Engineering in Software Engineering-London Metropolitan University
-* **Evidence:** Degree Certificate.jpeg
+* **Evidence:** Degree Certificate.jpg
 * **url:** https://github.com/pansilugithub/Learning-Journey/blob/main/Degree%20certificate.jpg
+* 
+* **Degree:** MSc in Advanced Computer science
+* **Evidence:** Master Certificate.jpeg
+* **url:** https://github.com/pansilugithub/Learning-Journey/blob/main/Masters%20certificate.jpeg
 
-### 💻 Featured Project
-* **Project Name:** Hotel Management System
-* **Source Code:** [View the Script](./hotel-system.py)
