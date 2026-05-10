@@ -30,7 +30,7 @@ This repository documents my education and the practical projects I've built.
 
 ### 🏛️ Education
 * **Degree:** Bachelor of Engineering
-* **Evidence:** https://github.com/pansilugithub/Learning-Journey/blob/main/Pansilu%20polhengoda%20final%20transcript.pdf
+* **Evidence:**  https://github.com/pansilugithub/Learning-Journey/blob/31ae9a26032a09a15696fc2e135c69e0c2ee36ac/Degree%20Certificate.jpeg
 
 ### 💻 Featured Project
 * **Project Name:** Hotel Management System
