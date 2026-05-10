@@ -29,8 +29,8 @@ If you are developing a production application, we recommend using TypeScript wi
 This repository documents my education and the practical projects I've built.
 
 ### 🏛️ Education
-* **Degree:** Bachelor of Science
-* **Evidence:** [View My Degree Certificate](./certificate.pdf) <--- PASTE IT HERE
+* **Degree:** Bachelor of Engineering
+* **Evidence:** Pansilu polhengoda final transcript.pdf
 
 ### 💻 Featured Project
 * **Project Name:** Hotel Management System
