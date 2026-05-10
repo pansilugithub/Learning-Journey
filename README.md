@@ -29,7 +29,7 @@ If you are developing a production application, we recommend using TypeScript wi
 This repository documents my education and the practical projects I've built.
 
 ### 🏛️ Education
-* **Degree:** Bachelor of Engineering
+* **Degree:** Bachelor of Engineering in Software Engineering-London Metropolitan University
 * **Evidence:** Degree Certificate.jpeg
 
 ### 💻 Featured Project
